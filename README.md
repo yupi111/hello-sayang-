@@ -1,6 +1,7 @@
 Hi kesayangan aku 🥰
-<h1>dududuu</h1>
+<h1>apakah kamu sayang aku? </h1>
 <div class="container">
-<button>no</button>
+<button>sangat sayang</button>
+<button>tidak sama sekali </button>
 
  
